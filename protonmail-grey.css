@@ -1,0 +1,143 @@
+html body * {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+.headerDesktop-logo {
+    display: none;
+}
+.headerDesktop-container {
+    background-color: rgb(36, 41, 46);
+}
+.search-form-fieldset {
+    border-radius: 5px;
+}
+.sidebarApp-container {
+    padding-top: 20px;
+    background-color: rgb(238, 238, 238);
+}
+.navigation-title {
+    display: none;
+}
+.navigation-link {
+    width: 61px;
+    padding-top: 20px;
+}
+.compose.pm_button.sidebar-btn-compose {
+    background-color: rgb(238, 238, 238);
+    border-top-color: rgb(73, 73, 73);
+    border-right-color: rgb(73, 73, 73);
+    border-bottom-color: rgb(73, 73, 73);
+    border-left-color: rgb(73, 73, 73);
+}
+.compose.pm_button.sidebar-btn-compose {
+    color: rgb(51, 51, 51)
+}
+.navigationItem-title {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-label {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-icon {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-icon.navigationItem-icon {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-item.active.navigationItem-icon {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-item.active .navigationItem-icon {
+    color: rgb(51, 51, 51)
+}
+.sidebarApp-item .sidebarApp-link {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-item .sidebarApp-icon,
+.sidebarApp-link .fa {
+    color: rgb(51, 51, 51);
+}
+.storageBar {
+    display: none
+}
+.sidebarApp-container .footer div.link a {
+    color: #b7b7b6
+}
+.sidebarApp-container .footer div.link a:hover {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-container .version:hover {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-container .footer div.storage {
+    padding-bottom: 3px
+}
+.sidebarApp-container .footer div.storage strong {
+    color: #b7b7b6
+}
+.sidebarApp-container .version {
+    color: #b7b7b6
+}
+.sidebarApp-container .sidebar-btn-back {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-item .sidebarApp-link:hover {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-item.active .sidebarApp-link {
+    color: rgb(51, 51, 51);
+}
+.sidebarApp-container .footer .wrap {
+    margin: 0;
+    line-height: 16px;
+}
+.sidebarApp-container .footer {
+    text-align: left;
+    padding-bottom: 20px;
+    line-height: 16px;
+}
+.sidebarApp-container .footer div.storage {
+    text-align: left
+}
+.conversation.read {
+    background-color: rgb(255, 255, 255);
+}
+.conversation.read.marked.active {
+    background-color: #4b4f53;
+}
+.conversation.marked::before {
+    background-color: #4b4f53;
+}
+.conversation .row .senders {
+    font-weight: 400;
+}
+.composerHeader-container {
+    background-color: rgb(36, 41, 46);
+    color: rgb(36, 41, 46);
+}
+.pm_toolbar.pm_toolbar_withSelector {
+    padding: 10px 10px 10px 4px;
+    background-color: #4b4f53;
+}
+.pm_toolbar {
+    box-shadow: none;
+}
+.conversation {
+    border-bottom: 1px solid #d4d4d4;
+}
+.conversation .row .meta .fa-star {
+    color: #ffb700
+}
+#conversation-view .fa-star {
+    color: #ffb700
+}
+.pm_buttons a {
+    background: #4b4f53;
+    box-shadow: none;
+}
+.pm_buttons {
+    border: none;
+    color: #ccd3d4;
+}
+.pm_buttons>* {
+    border: none;
+}
